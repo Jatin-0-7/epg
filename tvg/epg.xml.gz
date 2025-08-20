@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tv generator-info-name="Custom 24/7 EPG Generator" generator-info-url="https://github.com/Jatin-0-7">
+  
+  <!-- Channel 1 -->
+  <channel id="costumepg001">
+    <display-name>costumepg001</display-name>
+    <icon src="https://i.ibb.co/v4LzBCKn/images-15.jpg" />
+  </channel>
+  
+  <programme start="20250820000000 +0000" stop="20250821000000 +0000" channel="costumepg001">
+    <title>Non-Stop Doraemon</title>
+    <desc>Non-stop 24/7 Doraemon streaming.</desc>
+    <icon src="https://i.ibb.co/v4LzBCKn/images-15.jpg" />
+  </programme>
+
+  <!-- Channel 2 -->
+  <channel id="costumepg002">
+    <display-name>costumepg002</display-name>
+    <icon src="https://s3.ap-south-1.amazonaws.com/media.playboxtv.in/content/liveTv/PBha-10592.jpg" />
+  </channel>
+  
+  <programme start="20250820000000 +0000" stop="20250821000000 +0000" channel="costumepg002">
+    <title>Non-stop-MUSIC</title>
+    <desc>24/7 nonstop music entertainment.</desc>
+    <icon src="https://s3.ap-south-1.amazonaws.com/media.playboxtv.in/content/liveTv/PBha-10592.jpg" />
+  </programme>
+
+</tv>
