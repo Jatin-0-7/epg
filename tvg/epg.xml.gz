@@ -20,9 +20,9 @@
   </channel>
   
   <programme start="20250820000000 +0000" stop="20250821000000 +0000" channel="costumepg002">
-    <title>Non-stop-MUSIC</title>
-    <desc>24/7 nonstop music entertainment.</desc>
-    <icon src="https://s3.ap-south-1.amazonaws.com/media.playboxtv.in/content/liveTv/PBha-10592.jpg" />
+    <title>Non-Motu patlu</title>
+    <desc>24/7 Motu patlu entertainment.</desc>
+    <icon src="" />
   </programme>
 
 </tv>
